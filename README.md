@@ -8,7 +8,7 @@
 ![Redux](https://img.shields.io/badge/Redux-Toolkit-purple)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-**Облачное хранилище файлов — дипломный проект Fullstack-разработчика**
+**Облачное хранилище файлов - дипломный проект Fullstack-разработчика**
 
 </div>
 
